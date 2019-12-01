@@ -34,8 +34,8 @@ public final class App {
     //Random range
     public static final int MAX = 10;
     public static final int MIN = 0;
-    public static final int MIN_R = -5;
-    public static final int MAX_R = 15;
+    public static final int MIN_R = 10000000;
+    public static final int MAX_R = 99999999;
 
     //Datos
     public static final int NUM;
